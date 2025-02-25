@@ -1,0 +1,228 @@
+Sure! Practicing with props is a great way to get comfortable with React. Below are 100 questions to help you understand and practice the concept of props in React. These questions range from basic to advanced, and they cover passing, using, and manipulating props.
+
+Basic Props Questions (1-30)
+What are props in React?
+
+How do you pass props from a parent component to a child component?
+
+Write a parent component that passes a name prop to a child component.
+
+Write a child component that receives and displays a name prop.
+
+Can props be passed to a component as an object? If yes, how?
+
+How do you pass multiple props to a component?
+
+What is the difference between props and state in React?
+
+Can props be modified inside the child component? Why or why not?
+
+How do you set default values for props?
+
+Write a component
+
+Give me 100 questions for practice on vs code the concept of props in react js , because I am bit confuse how to pass and use props
+Sure! Below are 100 questions to help you practice the concept of props in React JS using VS Code. These questions are designed to help you understand how to pass, use, and manipulate props in React components. You can create React components in VS Code and solve these questions step by step.
+
+Basic Props Questions (1-20)
+Create a parent component that passes a name prop to a child component.
+
+Create a child component that receives and displays the name prop.
+
+Pass a number as a prop from a parent to a child component and display it.
+
+Pass a string as a prop from a parent to a child component and display it.
+
+Pass a boolean as a prop from a parent to a child component and display it.
+
+Pass an array as a prop from a parent to a child component and display its elements.
+
+Pass an object as a prop from a parent to a child component and display its properties.
+
+Pass a function as a prop from a parent to a child component and call it in the child.
+
+Pass multiple props (e.g., name, age, city) to a child component and display them.
+
+Set default values for props in a functional component.
+
+Set default values for props in a class component.
+
+Destructure props in a functional component.
+
+Destructure props in a class component.
+
+Pass a prop called isLoggedIn and conditionally render content based on its value.
+
+Pass a prop called items (an array) and render a list of items in the child component.
+
+Pass a prop called user (an object) and display its name and email properties.
+
+Pass a prop called onClick (a function) and trigger it when a button is clicked in the child component.
+
+Pass a prop called style (an object) and apply it to a div in the child component.
+
+Pass a prop called className and apply it to an element in the child component.
+
+Pass a prop called children and render it inside the child component.
+
+Intermediate Props Questions (21-50)
+Create a parent component that passes a dynamic prop (e.g., based on state) to a child component.
+
+Pass a prop called count and increment it in the parent component when a button is clicked.
+
+Pass a prop called data (an array of objects) and render a table in the child component.
+
+Pass a prop called onSubmit (a function) and call it with form data from the child component.
+
+Pass a prop called isLoading and conditionally render a loading spinner in the child component.
+
+Pass a prop called error and display an error message in the child component if it exists.
+
+Pass a prop called theme (e.g., "light" or "dark") and apply conditional styling in the child component.
+
+Pass a prop called user and conditionally render content based on whether the user is an admin.
+
+Pass a prop called onChange (a function) and call it when an input value changes in the child component.
+
+Pass a prop called initialValue and use it to initialize state in the child component.
+
+Pass a prop called items and filter the items in the child component based on a condition.
+
+Pass a prop called onDelete (a function) and call it with an item ID from the child component.
+
+Pass a prop called onEdit (a function) and call it with updated data from the child component.
+
+Pass a prop called limit and display only the first n items in the child component.
+
+Pass a prop called sortBy and sort the items in the child component based on it.
+
+Pass a prop called renderItem (a function) and use it to render custom items in the child component.
+
+Pass a prop called wrapperComponent and use it to wrap content in the child component.
+
+Pass a prop called onLoad (a function) and call it when the child component mounts.
+
+Pass a prop called onUnload (a function) and call it when the child component unmounts.
+
+Pass a prop called onScroll (a function) and call it when the user scrolls in the child component.
+
+Pass a prop called onResize (a function) and call it when the window is resized in the child component.
+
+Pass a prop called onKeyPress (a function) and call it when a key is pressed in the child component.
+
+Pass a prop called onMouseEnter (a function) and call it when the mouse enters an element in the child component.
+
+Pass a prop called onMouseLeave (a function) and call it when the mouse leaves an element in the child component.
+
+Pass a prop called onFocus (a function) and call it when an input is focused in the child component.
+
+Pass a prop called onBlur (a function) and call it when an input loses focus in the child component.
+
+Pass a prop called onDoubleClick (a function) and call it when an element is double-clicked in the child component.
+
+Pass a prop called onContextMenu (a function) and call it when the context menu is opened in the child component.
+
+Pass a prop called onDragStart (a function) and call it when an element is dragged in the child component.
+
+Pass a prop called onDrop (a function) and call it when an element is dropped in the child component.
+
+Advanced Props Questions (51-100)
+Pass a prop called renderHeader (a function) and use it to render a custom header in the child component.
+
+Pass a prop called renderFooter (a function) and use it to render a custom footer in the child component.
+
+Pass a prop called renderSidebar (a function) and use it to render a custom sidebar in the child component.
+
+Pass a prop called renderContent (a function) and use it to render custom content in the child component.
+
+Pass a prop called renderEmptyState (a function) and use it to render a custom empty state in the child component.
+
+Pass a prop called renderError (a function) and use it to render a custom error message in the child component.
+
+Pass a prop called renderLoading (a function) and use it to render a custom loading spinner in the child component.
+
+Pass a prop called renderItem (a function) and use it to render custom list items in the child component.
+
+Pass a prop called renderPagination (a function) and use it to render custom pagination in the child component.
+
+Pass a prop called renderToolbar (a function) and use it to render a custom toolbar in the child component.
+
+Pass a prop called renderModal (a function) and use it to render a custom modal in the child component.
+
+Pass a prop called renderDropdown (a function) and use it to render a custom dropdown in the child component.
+
+Pass a prop called renderTabs (a function) and use it to render custom tabs in the child component.
+
+Pass a prop called renderAccordion (a function) and use it to render a custom accordion in the child component.
+
+Pass a prop called renderCarousel (a function) and use it to render a custom carousel in the child component.
+
+Pass a prop called renderGallery (a function) and use it to render a custom gallery in the child component.
+
+Pass a prop called renderForm (a function) and use it to render a custom form in the child component.
+
+Pass a prop called renderTable (a function) and use it to render a custom table in the child component.
+
+Pass a prop called renderChart (a function) and use it to render a custom chart in the child component.
+
+Pass a prop called renderMap (a function) and use it to render a custom map in the child component.
+
+Pass a prop called renderCalendar (a function) and use it to render a custom calendar in the child component.
+
+Pass a prop called renderTimeline (a function) and use it to render a custom timeline in the child component.
+
+Pass a prop called renderProgressBar (a function) and use it to render a custom progress bar in the child component.
+
+Pass a prop called renderSlider (a function) and use it to render a custom slider in the child component.
+
+Pass a prop called renderCheckbox (a function) and use it to render a custom checkbox in the child component.
+
+Pass a prop called renderRadioButton (a function) and use it to render a custom radio button in the child component.
+
+Pass a prop called renderInput (a function) and use it to render a custom input field in the child component.
+
+Pass a prop called renderTextarea (a function) and use it to render a custom textarea in the child component.
+
+Pass a prop called renderSelect (a function) and use it to render a custom select dropdown in the child component.
+
+Pass a prop called renderButton (a function) and use it to render a custom button in the child component.
+
+Pass a prop called renderLink (a function) and use it to render a custom link in the child component.
+
+Pass a prop called renderImage (a function) and use it to render a custom image in the child component.
+
+Pass a prop called renderVideo (a function) and use it to render a custom video in the child component.
+
+Pass a prop called renderAudio (a function) and use it to render a custom audio player in the child component.
+
+Pass a prop called renderIcon (a function) and use it to render a custom icon in the child component.
+
+Pass a prop called renderAvatar (a function) and use it to render a custom avatar in the child component.
+
+Pass a prop called renderBadge (a function) and use it to render a custom badge in the child component.
+
+Pass a prop called renderCard (a function) and use it to render a custom card in the child component.
+
+Pass a prop called renderList (a function) and use it to render a custom list in the child component.
+
+Pass a prop called renderGrid (a function) and use it to render a custom grid in the child component.
+
+Pass a prop called renderTooltip (a function) and use it to render a custom tooltip in the child component.
+
+Pass a prop called renderPopover (a function) and use it to render a custom popover in the child component.
+
+Pass a prop called renderModal (a function) and use it to render a custom modal in the child component.
+
+Pass a prop called renderDrawer (a function) and use it to render a custom drawer in the child component.
+
+Pass a prop called renderNotification (a function) and use it to render a custom notification in the child component.
+
+Pass a prop called renderBreadcrumb (a function) and use it to render a custom breadcrumb in the child component.
+
+Pass a prop called renderPagination (a function) and use it to render custom pagination in the child component.
+
+Pass a prop called renderStepper (a function) and use it to render a custom stepper in the child component.
+
+Pass a prop called renderTabs (a function) and use it to render custom tabs in the child component.
+
+Pass a prop called renderAccordion (a function) and use it to render a custom accordion in the child component.
