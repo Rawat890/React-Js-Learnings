@@ -1,9 +1,9 @@
-import Ques3 from "./Components/Ques3";
+import Ques9 from "./Components/Ques9";
 
 const App = () => {
   return (
     <>
-      <Ques3 />
+      <Ques9 />
     </>
   );
 };

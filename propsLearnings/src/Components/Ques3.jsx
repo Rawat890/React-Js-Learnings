@@ -25,3 +25,4 @@ Child.propTypes = {
 };
 
 export default Ques3;
+
