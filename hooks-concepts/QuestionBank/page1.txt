@@ -1,0 +1,202 @@
+Create a counter app using useState to increment and decrement a number.
+
+Display the current value of the counter on the screen.
+
+Add a reset button to set the counter back to 0.
+
+Create a toggle button that switches between "ON" and "OFF" states.
+
+Use useState to store and display a user's name.
+
+Create a button that changes the text of a paragraph when clicked.
+
+Use useState to toggle the visibility of a div.
+
+Create a simple form with an input field and display the entered value below the form.
+
+Use useState to store and display a list of favorite colors.
+
+Create a button that adds a new color to the list.
+
+Use useState to track and display the number of times a button has been clicked.
+
+Create a dropdown menu and display the selected value using useState.
+
+Use useState to store and display a boolean value (true/false).
+
+Create a button that toggles the background color of the page.
+
+Use useState to store and display the current time (updated every second).
+
+Create a button that increments a counter by 5 instead of 1.
+
+Use useState to store and display a user's age.
+
+Create a button that changes the text color of a heading.
+
+Use useState to store and display a list of tasks.
+
+Add a button to remove the last task from the list.
+
+Use useState to store and display a random number between 1 and 100.
+
+Create a button that generates a new random number.
+
+Use useState to store and display a user's email address.
+
+Create a button that clears the email field.
+
+Use useState to store and display a list of numbers.
+
+Add a button to calculate the sum of the numbers in the list.
+
+Use useState to store and display a user's selected gender (male/female/other).
+
+Create a button that toggles between light and dark mode.
+
+Use useState to store and display a user's selected country from a dropdown.
+
+Create a button that adds a new item to a shopping cart.
+
+Intermediate Questions (31-60)
+Use useState to store and display a list of objects (e.g., products with name and price).
+
+Add a button to sort the list of products by price.
+
+Use useState to implement a simple todo list.
+
+Add a button to mark a todo item as completed.
+
+Use useState to store and display a user's selected multiple hobbies.
+
+Create a button that removes a specific hobby from the list.
+
+Use useState to store and display a user's selected date from a date picker.
+
+Create a button that calculates the user's age based on the selected date.
+
+Use useState to store and display a user's selected file (e.g., image).
+
+Create a button to preview the selected file.
+
+Use useState to store and display a user's selected rating (1-5 stars).
+
+Create a button to reset the rating to 0.
+
+Use useState to store and display a user's selected theme (e.g., light/dark).
+
+Create a button to toggle between two themes.
+
+Use useState to store and display a user's selected font size (small/medium/large).
+
+Create a button to increase the font size.
+
+Use useState to store and display a user's selected language (e.g., English/Spanish).
+
+Create a button to toggle between two languages.
+
+Use useState to store and display a user's selected payment method (e.g., credit card/PayPal).
+
+Create a button to simulate a payment and display a success message.
+
+Use useState to store and display a user's selected shipping address.
+
+Create a button to add a new shipping address.
+
+Use useState to store and display a user's selected product quantity.
+
+Create a button to increase or decrease the quantity.
+
+Use useState to store and display a user's selected subscription plan (monthly/yearly).
+
+Create a button to toggle between the two plans.
+
+Use useState to store and display a user's selected notification preferences (email/SMS).
+
+Create a button to toggle between the two preferences.
+
+Use useState to store and display a user's selected time zone.
+
+Create a button to update the time zone.
+
+Advanced Questions (61-90)
+Use useState to implement a multi-step form (e.g., step 1: personal info, step 2: address).
+
+Add a button to navigate between the steps.
+
+Use useState to store and display a user's selected filters (e.g., price range, category).
+
+Create a button to apply the filters and display the filtered results.
+
+Use useState to store and display a user's selected sorting option (e.g., price low to high).
+
+Create a button to sort the list based on the selected option.
+
+Use useState to store and display a user's selected pagination page (e.g., page 1, page 2).
+
+Create a button to navigate between the pages.
+
+Use useState to store and display a user's selected search query.
+
+Create a button to perform a search and display the results.
+
+Use useState to store and display a user's selected currency (e.g., USD, EUR).
+
+Create a button to convert prices to the selected currency.
+
+Use useState to store and display a user's selected time format (12-hour/24-hour).
+
+Create a button to toggle between the two formats.
+
+Use useState to store and display a user's selected temperature unit (Celsius/Fahrenheit).
+
+Create a button to convert temperatures between the two units.
+
+Use useState to store and display a user's selected font family (e.g., Arial, Times New Roman).
+
+Create a button to change the font family.
+
+Use useState to store and display a user's selected background image.
+
+Create a button to change the background image.
+
+Use useState to store and display a user's selected video quality (e.g., 480p, 1080p).
+
+Create a button to change the video quality.
+
+Use useState to store and display a user's selected audio volume (0-100).
+
+Create a button to mute/unmute the audio.
+
+Use useState to store and display a user's selected playback speed (1x, 1.5x, 2x).
+
+Create a button to change the playback speed.
+
+Use useState to store and display a user's selected video playback position.
+
+Create a button to skip forward or backward by 10 seconds.
+
+Use useState to store and display a user's selected video subtitles (on/off).
+
+Create a button to toggle the subtitles.
+
+Expert Questions (91-100)
+Use useState to implement a drag-and-drop feature for reordering items in a list.
+
+Create a button to save the reordered list.
+
+Use useState to implement a real-time search feature (e.g., filter items as the user types).
+
+Create a button to clear the search results.
+
+Use useState to implement a progress bar that updates based on user input.
+
+Create a button to reset the progress bar.
+
+Use useState to implement a countdown timer.
+
+Create a button to pause/resume the timer.
+
+Use useState to implement a quiz app with multiple questions and answers.
+
+Create a button to calculate and display the user's score.
